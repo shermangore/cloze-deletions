@@ -18,8 +18,8 @@ This code is the precursor to a flashcard app that will be used to quiz JavaScri
 3. From your terminal, type: ```node index.js```
 4. You can add/change questions within the index.js file
 
-### Companies Using Cloze Deletions
+## Companies Using Cloze Deletions
 * None  :D
 
-### Contributors
+## Contributors
 Cloze Deletions was built by [Sherman Gore](http://shermangore.com)
