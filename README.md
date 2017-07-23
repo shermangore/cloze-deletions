@@ -22,4 +22,4 @@ This code is the precursor to a flashcard app that will be used to quiz JavaScri
 * None  :D
 
 ## Contributors
-Cloze Deletions was built by [Sherman Gore](http://shermangore.com)
+Cloze Deletions was built by [Sherman Gore](http://shermangore.com) while at [The Coding Boot Camp at UCLA](https://codingbootcamp.uclaextension.edu/)
